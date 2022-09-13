@@ -3,7 +3,7 @@
 #define MAX_LIM 9
 #define COMMA_SPACE 8
 
- /**
+/**
  * main - Entry point
  *
  * Return: Always 0
@@ -30,4 +30,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
