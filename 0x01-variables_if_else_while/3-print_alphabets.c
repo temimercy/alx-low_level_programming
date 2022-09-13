@@ -22,6 +22,6 @@ int main(void)
 		putchar(upper);
 		upper++;
 	}
-	putchar('/n');
+	putchar('\n');
 	return (0);
 }
