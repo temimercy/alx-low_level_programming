@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* print_alphabet_x10 - Prints 10x the alphabet
-*/
+ * print_alphabet_x10 - Prints 10x the alphabet
+ */
 void print_alphabet_x10(void)
 {
 	int i;
@@ -11,10 +11,10 @@ void print_alphabet_x10(void)
 	{
 		char c;
 
+
 		c = 'a';
 		while (c <= 'z')
-		{
-			_putchar(c);
+		{																			_putchar(c);
 			c++;
 		}
 		_putchar('\n');
